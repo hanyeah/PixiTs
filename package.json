@@ -3,6 +3,7 @@
   "main": "./PIXI.js",
   "version": "0.0.0",
   "description": "PIXI TS",
+  "types": "./PIXI.d.ts",
   "typings": "./PIXI.d.ts",
   "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
   "scripts":{
