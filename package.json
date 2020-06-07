@@ -1,9 +1,9 @@
 {
   "name": "PixiTs",
-  "main": "./pixi.js",
+  "main": "./dist/pixi.js",
   "version": "0.0.0",
   "description": "pixijs+.d.ts",
-  "typings": "./pixi.d.ts",
+  "typings": "./dist/pixi.d.ts",
   "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
   "scripts":{
   }
